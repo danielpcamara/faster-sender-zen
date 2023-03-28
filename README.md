@@ -1,4 +1,4 @@
-Consumo asincrono da API Questor Zen
+Asynchronous consumption of the Questor Zen API
 ==========
 
 # This Project
